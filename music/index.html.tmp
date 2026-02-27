@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Applied Multivariable Calculus – CHAD TOPAZ</title>
-  <meta name="description" content="Applied Multivariable Calculus course resources and materials.">
+  <title>Music – CHAD TOPAZ</title>
+  <meta name="description" content="Chad Topaz: viola performer, chamber musician, and orchestral musician">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
   <!-- ========== NAVIGATION ========== -->
   <nav class="site-nav" role="navigation" aria-label="Main navigation">
     <div class="nav-inner">
-      <a href="/chadtopaz-site/" class="nav-brand">Chad Topaz</a>
+      <a href="/" class="nav-brand">Chad Topaz</a>
 
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span><span></span><span></span>
@@ -23,45 +23,45 @@
 
       <ul class="nav-menu">
         <li class="nav-item">
-          <a href="/chadtopaz-site/" class="nav-link">Home</a>
+          <a href="/" class="nav-link">Home</a>
         </li>
         <li class="nav-item">
-          <a href="/chadtopaz-site/unlocking-justice/" class="nav-link">Book</a>
+          <a href="/unlocking-justice/" class="nav-link">Book</a>
         </li>
         <li class="nav-item">
-          <a href="/chadtopaz-site/speaking/" class="nav-link">Speaking</a>
+          <a href="/speaking/" class="nav-link">Speaking</a>
         </li>
         <li class="nav-item has-dropdown">
           <a href="#" class="nav-link">About <span class="arrow">&#9662;</span></a>
           <ul class="nav-dropdown">
-            <li><a href="/chadtopaz-site/biography/">Biography</a></li>
+            <li><a href="/biography/">Biography</a></li>
             <li><a href="https://docs.google.com/document/d/1Bf2vmmtSaV-XOin092E-2IbTA_JIVmyOYWAx2m5WKbw/edit" target="_blank">CV <span class="external-icon">&#8599;</span></a></li>
             <li><a href="https://scholar.google.com/citations?user=YdVgYhoAAAAJ&hl=en" target="_blank">Google Scholar <span class="external-icon">&#8599;</span></a></li>
-            <li><a href="/chadtopaz-site/press/">Press</a></li>
-            <li><a href="/chadtopaz-site/music/">Music</a></li>
+            <li><a href="/press/">Press</a></li>
+            <li><a href="/music/">Music</a></li>
           </ul>
         </li>
         <li class="nav-item has-dropdown">
           <a href="#" class="nav-link">Research <span class="arrow">&#9662;</span></a>
           <ul class="nav-dropdown">
-            <li><a href="/chadtopaz-site/publications/">Publications</a></li>
-            <li><a href="/chadtopaz-site/getting-started-with-tda/">Getting Started with TDA</a></li>
+            <li><a href="/publications/">Publications</a></li>
+            <li><a href="/getting-started-with-tda/">Getting Started with TDA</a></li>
           </ul>
         </li>
         <li class="nav-item has-dropdown">
           <a href="#" class="nav-link">Teaching <span class="arrow">&#9662;</span></a>
           <ul class="nav-dropdown">
-            <li><a href="/chadtopaz-site/antiracist-teaching/">Antiracist Teaching</a></li>
+            <li><a href="/antiracist-teaching/">Antiracist Teaching</a></li>
             <li class="sub-label">Courses</li>
-            <li><a href="/chadtopaz-site/amc/">Applied Multivariable Calculus</a></li>
+            <li><a href="/amc/">Applied Multivariable Calculus</a></li>
             <li><a href="https://github.com/chadtopaz/computational-linear-algebra" target="_blank">Computational Linear Algebra <span class="external-icon">&#8599;</span></a></li>
-            <li><a href="/chadtopaz-site/differential-equations/">Differential Equations</a></li>
+            <li><a href="/differential-equations/">Differential Equations</a></li>
             <li><a href="https://glow.williams.edu/courses/3011771" target="_blank">Discrete Mathematics <span class="external-icon">&#8599;</span></a></li>
-            <li><a href="/chadtopaz-site/mathematical-modeling/">Mathematical Modeling</a></li>
-            <li><a href="/chadtopaz-site/computational-models-of-abstract-art-2018/">Comp. Models of Abstract Art (2018)</a></li>
-            <li><a href="/chadtopaz-site/computational-models-of-abstract-art-2021/">Comp. Models of Abstract Art (2021)</a></li>
+            <li><a href="/mathematical-modeling/">Mathematical Modeling</a></li>
+            <li><a href="/computational-models-of-abstract-art-2018/">Comp. Models of Abstract Art (2018)</a></li>
+            <li><a href="/computational-models-of-abstract-art-2021/">Comp. Models of Abstract Art (2021)</a></li>
             <li><a href="https://chadtopaz.medium.com/humanizing-student-group-work-8ccdfbbd6e44" target="_blank">Humanizing Group Work <span class="external-icon">&#8599;</span></a></li>
-            <li><a href="/chadtopaz-site/inclusive-teaching-resources/">Inclusive Teaching</a></li>
+            <li><a href="/inclusive-teaching-resources/">Inclusive Teaching</a></li>
             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdC6JQSajbUn2toFq3p9XLD7gXA9paL-ZwtsuA4ukHiOo6rCQ/viewform" target="_blank">Letters of Recommendation <span class="external-icon">&#8599;</span></a></li>
           </ul>
         </li>
@@ -77,25 +77,49 @@
     </div>
   </nav>
 
+  <!-- ========== PAGE HEADER ========== -->
+  <section class="page-header">
+    <div class="container content-width">
+      <h1>Music</h1>
+    </div>
+  </section>
+
   <!-- ========== MAIN CONTENT ========== -->
   <main>
-    <section class="section">
+    <section class="page-content">
       <div class="container content-width">
         <div class="fade-in">
-          <h1>Applied Multivariable Calculus</h1>
+          <p>Equally at home playing Bartok and Broadway, Chicago native Chad Topaz first picked up a viola in 1984, three years after beginning his musical training on violin. Currently a violist (and occasional substitute principal) with the Berkshire Symphony and a regular participant in the Chamber Music Conference East, Chad is a passionate chamber musician whose honors include First Prize in the Fischoff National Chamber Music Competition and Harvard University's Horblitt Prize for Chamber Music. Orchestrally, he has performed with the Boston Philharmonic and the St. Louis Philharmonic, in addition to maintaining an avid freelance presence in Boston at the time of his residence. Interested in connections between the musical and visual arts, Chad has enjoyed performing in museums including the Art Institute of Chicago and the Fogg Museum.</p>
 
-          <p>Here are selected resources from the Applied Multivariable Calculus I course I used to teach.</p>
+          <p>In Chad's other life, he holds a Ph.D. in applied mathematics from Northwestern University and is Professor of Complex Systems at Williams College, adjunct Professor of Applied Mathematics at the University of Colorado, and co-founder of QSIDE Institute, a social justice research-to-action nonprofit organization. Chad wrote his college application essay on viola jokes.</p>
 
-          <ul>
-            <li><a href="http://www.chadtopaz.com/math-135/course-preliminaries/">Course Preliminaries</a></li>
-            <li><a href="http://www.chadtopaz.com/math-135/functions-as-models/">Functions as Models</a></li>
-            <li><a href="http://www.chadtopaz.com/math-135/units-dimensions-and-estimation/">Units, Dimensions, and Estimation</a></li>
-            <li><a href="http://www.chadtopaz.com/teaching/math-135/concepts-of-derivatives/">Concepts of Derivatives</a></li>
-            <li><a href="http://www.chadtopaz.com/teaching/math-135/symbolic-differentiation/">Symbolic Differentiation</a></li>
-            <li><a href="http://www.chadtopaz.com/teaching/math-135/optimization/">Optimization</a></li>
-            <li><a href="http://www.chadtopaz.com/teaching/math-135/integration-and-cumulation/">Integration and Cumulation</a></li>
-            <li><a href="http://www.chadtopaz.com/teaching/math-135/models-of-change/">Models of Change</a></li>
-          </ul>
+          <p><a href="https://docs.google.com/document/d/12prqQPJp6CMInRTf-pXxM3e-gCyDVWKPhpmvWmPNI6k/edit#">Click here to view my detailed music resume</a> and see below for some clips of chamber, solo, duet, chamber-orchestral, and section leader symphonic playing.</p>
+
+          <div class="audio-clips">
+            <h2>Audio Clips</h2>
+            <ul class="clips-list">
+              <li>
+                <strong>Schumann Piano Quintet in E-Flat Major, Op. 44, mvmt. I</strong>
+                <span class="clip-role">(violist)</span>
+              </li>
+              <li>
+                <strong>Hindemith Sonata, Op. 25, No. 1, mvmt. I</strong>
+                <span class="clip-role">(soloist)</span>
+              </li>
+              <li>
+                <strong>Bartok Ruthenian Kolomejka, from 44 duets</strong>
+                <span class="clip-role">(first violist)</span>
+              </li>
+              <li>
+                <strong>Vivaldi Concerto in B-minor, Op. 3, No. 10</strong>
+                <span class="clip-role">(violist)</span>
+              </li>
+              <li>
+                <strong>Grofé, Cloudburst from Grand Canyon Suite</strong>
+                <span class="clip-role">(substitute principal violist, Berkshire Symphony)</span>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
